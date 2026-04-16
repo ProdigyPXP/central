@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ProdigyPXP/ProdigyOrigin/main/logo.png" alt="Prodigy Origin" width="128" />
+<img src="https://raw.githubusercontent.com/ProdigyPXP/ProdigyOrigin/refs/heads/master/logo.png" alt="Prodigy Origin" width="128" />
 
 # ProdigyPXP
 
